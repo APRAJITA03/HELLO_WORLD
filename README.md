@@ -2,4 +2,4 @@
 This is my first simple static web page.
 
 The link to my new web page is:
-https://github.com/APRAJITA03 
+https://aprajita03.github.io/HELLO_WORLD/
